@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "720057292479",
+    "project_id": "alab-a9de0",
+    "storage_bucket": "alab-a9de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720057292479:android:14d8247627f76d9bdd180a",
+        "android_client_info": {
+          "package_name": "com.example.alab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720057292479-39p7okuo82708l339j8s9gmhb3sadn7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alab",
+            "certificate_hash": "cde78d56c2b548b0d68659fecc37222be02389df"
+          }
+        },
+        {
+          "client_id": "720057292479-n7mp74s7esgtrjsi2nqv4m1ml81f18id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEU8CHFtoIIsVPb3t6vHrGxdRLFSpNIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720057292479-n7mp74s7esgtrjsi2nqv4m1ml81f18id.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720057292479-nr1rqqqh2jlfpb0bcmqn5da4v714km82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
